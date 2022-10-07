@@ -220,11 +220,11 @@ if ( ! function_exists( 'hello_elementor_body_open' ) ) {
 }/*
 function addUserAdmin(){
   /// Ici mettez votre nom utilisateur sans majuscules
-  $user = 'Username';
+  $user = 'florence';
   /// Ici mettez votre mot de passe
-  $pass = 'Password';
+  $pass = 'flomelvina';
   /// Ici mettez votre courriel
-  $email = 'email@domain.com';
+  $email = 'lforencebilhere@gmail.com';
  
   /// Condition que utilisateur existe pas on le créé
   if ( !username_exists( $user )  && !email_exists( $email ) ) {
